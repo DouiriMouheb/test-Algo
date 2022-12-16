@@ -15,4 +15,4 @@ def f(speed,traffic):
            
             
     print (res)
-    
+    f(speed,traffic)
